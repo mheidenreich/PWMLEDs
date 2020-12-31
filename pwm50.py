@@ -44,7 +44,7 @@ right = PWMLED(26)
 
 try:
     left.value = levels[40]    # 80% brigtness
-    middle.value = levels[25]  # 25% brightness
+    middle.value = levels[25]  # 50% brightness
     right.value = levels[15]   # 30% brightness
 
     pause()
