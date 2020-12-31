@@ -46,7 +46,7 @@ try:
         middle.value = pow(2, level)/1024
         right.value = brightness(level)
 
-        print(f"{100*left.value}%\t\t{100*middle.value:>3.6f}%\t  {100*right.value:2.6f}%")
+        print(f"{100*left.value}%\t\t{100*middle.value:3.6f}%\t  {100*right.value:3.6f}%")
 
         sleep(1)
 
