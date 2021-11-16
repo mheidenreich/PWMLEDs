@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
 """
-    Program: PWM Lookup with a 100-Value Table (pwm100.py)
-    Author:  M. Heidenreich, (c) 2020
+    Program:    PWM Lookup with a 100-Value Table (pwm100.py)
+    Platform:   Raspberry Pi
+    Author:     M. Heidenreich, (c) 2020
 
     Description:
 
