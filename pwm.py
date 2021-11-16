@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
 """
-    Program: PWM Test (pwm.py)
-    Author:  M. Heidenreich, (c) 2020
+    Program:    PWM Test (pwm.py)
+    Platform:   Raspberry Pi
+    Author:     M. Heidenreich, (c) 2020
 
     Description:
 
