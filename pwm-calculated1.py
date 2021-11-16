@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
 """
-    Program: LED Dimming Using Calculated PWM - Example 1 (pwm-calculated1.py)
-    Author:  M. Heidenreich, (c) 2020
+    Program:    LED Dimming Using Calculated PWM - Example 1 (pwm-calculated1.py)
+    Platform:   Raspberry Pi
+    Author:     M. Heidenreich, (c) 2020
 
     Description:
 
